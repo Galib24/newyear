@@ -181,3 +181,6 @@ margin-top: 220px;
     transition-delay: 0.3s;
     transition: all ease;
 }
+.fa-check{
+    color: greenyellow;
+}
